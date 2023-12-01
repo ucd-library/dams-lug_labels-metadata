@@ -1,0 +1,78 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/935661"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/869331"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1078136"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/935599"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1078162"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "The Lug and Can Label collection consists of more than 4,800 labels created for containers of fruits, vegetables, and other produce and food goods. These labels record packaging and marketing innovations between circa 1890-1970. Producers and distributors began using paper labels to identify the brand name and packing location of boxes of fresh fruit in Southern California in the 1880s, replacing the earlier methods of identifying shipments of fruit: stencilling, stamping, or burning the brand information on the wooden crates. \n\n The completion of the transcontinental railroad and establishing a national transportation network expanded the potential market for California fruit all the way to the East Coast. To stand out in this market, however, they needed an effective way to identify and advertise the product to those customers. They developed a wooden shipping box about 12\" x 12\" x 27\", and used a paper label about 10\" x 11\" on the box end. The brightly colored labels became an important part of the national marketing system. Growers and packers collaborated with commercial artists to design the labels. The labels identified the brand name and type of the product, the grower and/or packer, and their location. They also displayed images that would call attention to the product in the midst of competition. Thousands of different label designs were produced through the mid-1950's, when carboard boxes with preprinted labels came into circulation and replaced printed labels. \n\n The library’s Archives and Special Collections Department digitized over 3,400 lug and can labels, which are available here in Digital Collections. A complete inventory of the physical label collection is available in the collection’s finding aid at the [Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt429019js/).",
+  "schema:identifier": "D-211",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3kh0f21n/D211_7_53.tif"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keyword": [
+    "Produce trade--Marketing",
+    "Fruit--Marketing",
+    "Fruit crate labels",
+    "Produce trade",
+    "Commercial art"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+  },
+  "schema:name": "Lug and Can Label Collection",
+  "schema:publisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

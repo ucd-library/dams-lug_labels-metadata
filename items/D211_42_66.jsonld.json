@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "schema:VisualArtwork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Salt Lake City",
+  "schema:State": "Utah",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1208616"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/845829"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1207106"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205314"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1164784"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_42_66.tif"
+  },
+  "schema:creator": "Rocky Mountain Packing Corp.",
+  "schema:identifier": [
+    "D-211, Box:42, Folder:66",
+    "ark:/87293/d3xs5jm1t"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Canned Mixed Vegetables",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Salt Lake City, Salt Lake Co., Utah",
+  "schema:name": "Twin Peaks",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Salt Lake Co."
+}

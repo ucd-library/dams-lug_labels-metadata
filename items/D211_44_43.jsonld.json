@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:VisualArtwork",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Warren",
+  "schema:State": "Pennsylvania",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1222355"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1222351"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1104075"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_44_43.tif"
+  },
+  "schema:creator": "Glendora Products Co.",
+  "schema:identifier": [
+    "ark:/87293/d3804xp2j",
+    "D-211, Box:44, Folder:43"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Salmon",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Warren, Warren Co., Pennsylvania",
+  "schema:name": "Mi-Boy",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Warren Co."
+}

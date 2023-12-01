@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:VisualArtwork",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "San Francisco",
+  "schema:State": "California",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/998792"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204481"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/845755"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_42_74.tif"
+  },
+  "schema:creator": "S & W Fine Foods Inc",
+  "schema:identifier": [
+    "D-211, Box:42, Folder:74",
+    "ark:/87293/d3ws8hq1k"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Canned Butter Beans",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "San Francisco, San Francisco Co., California",
+  "schema:name": "Palmdale",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "San Francisco Co."
+}

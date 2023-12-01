@@ -1,0 +1,47 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:VisualArtwork",
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Reedley",
+  "schema:State": "California",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1224265"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214324"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_54_97.tif"
+  },
+  "schema:creator": "J. Peters & Sons",
+  "schema:identifier": [
+    "D-211, Box:54, Folder:97",
+    "ark:/87293/d3bv7b00z"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Unknown",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Reedley, Fresno Co., California",
+  "schema:name": "Peters",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Fresno Co."
+}

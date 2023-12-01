@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "schema:VisualArtwork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Azusa",
+  "schema:State": "California",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1217478"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/996108"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205194"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_1_2.tif"
+  },
+  "schema:creator": "A.C.G. Fruit Exchange",
+  "schema:identifier": [
+    "ark:/87293/d3pn8xh7h",
+    "D-211, Box:1, Folder:2"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Lemons",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Azusa, Los Angeles Co., California",
+  "schema:name": "El Azar",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Los Angeles Co."
+}

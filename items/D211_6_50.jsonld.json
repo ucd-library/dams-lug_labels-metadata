@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:VisualArtwork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Victor",
+  "schema:State": "California",
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1215055"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_6_50.tif"
+  },
+  "schema:creator": "Dumont Packing Co.",
+  "schema:identifier": [
+    "ark:/87293/d30z71024",
+    "D-211, Box:6, Folder:50"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Cherries",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Victor, San Joaquin Co., California",
+  "schema:name": "Broadway",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "San Joaquin Co."
+}

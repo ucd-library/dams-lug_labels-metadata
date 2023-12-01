@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:VisualArtwork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Walnut Grove",
+  "schema:State": "California",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1239464"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1802520"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214200"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_12_52.tif"
+  },
+  "schema:creator": "Dennis W. Leary",
+  "schema:identifier": [
+    "D-211, Box:12, Folder:52",
+    "ark:/87293/d3gx44x49"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Pears",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Walnut Grove, Sacramento Co., California",
+  "schema:name": "Big Game",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Sacramento Co."
+}

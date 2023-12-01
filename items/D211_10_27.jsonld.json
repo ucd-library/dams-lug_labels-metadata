@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:VisualArtwork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Davenport",
+  "schema:State": "Florida",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1218539"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/862018"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/861971"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214944"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_10_27.tif"
+  },
+  "schema:creator": "Holly Hill Fruit Products, Inc.",
+  "schema:identifier": [
+    "D-211, Box:10, Folder:27",
+    "ark:/87293/d3t43j546"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Assorted Citrus Fruits",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Davenport, Polk Co., Florida",
+  "schema:name": "Golden Hill",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Polk Co."
+}

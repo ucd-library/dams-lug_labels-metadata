@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:VisualArtwork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Seattle",
+  "schema:State": "Washington",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1206427"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/811660"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204940"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_15_30.tif"
+  },
+  "schema:creator": "North Pacific Sales Co.",
+  "schema:identifier": [
+    "D-211, Box:15, Folder:30",
+    "ark:/87293/d36h4ct09"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Apples",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Seattle, King Co., Washington",
+  "schema:name": "Farwest",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "King Co."
+}

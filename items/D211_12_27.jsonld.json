@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:VisualArtwork",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Sacramento",
+  "schema:State": "California",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1205542"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1802520"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214200"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_12_27.tif"
+  },
+  "schema:creator": "Lambert Marketing Co.",
+  "schema:identifier": [
+    "ark:/87293/d3qj78159",
+    "D-211, Box:12, Folder:27"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Pears",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Sacramento, Sacramento Co., California",
+  "schema:name": "Lake Gold",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Sacramento Co."
+}

@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:VisualArtwork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Carpinteria",
+  "schema:State": "California",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1222721"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/996108"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1212516"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_4_21.tif"
+  },
+  "schema:creator": "Carpinteria Mutual Citrus Association",
+  "schema:identifier": [
+    "ark:/87293/d3000030s",
+    "D-211, Box:4, Folder:21"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Lemons",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Carpinteria, Santa Barbara Co., California",
+  "schema:name": "Sea Bird",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Santa Barbara Co."
+}

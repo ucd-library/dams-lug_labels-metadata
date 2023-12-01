@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "schema:VisualArtwork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Corning",
+  "schema:State": "California",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1045481"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1217486"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1213022"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/845783"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_42_20.tif"
+  },
+  "schema:creator": "Olives Inc.",
+  "schema:identifier": [
+    "ark:/87293/d3rb6w54x",
+    "D-211, Box:42, Folder:20"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Canned Olives",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Corning, Tehama Co., California",
+  "schema:name": "Tropico",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Tehama Co."
+}

@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:VisualArtwork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Apopka",
+  "schema:State": "Florida",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1211878"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/861971"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1215787"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/862018"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_1_49.tif"
+  },
+  "schema:creator": "Apopka Fruit Co.",
+  "schema:identifier": [
+    "D-211, Box:1, Folder:49",
+    "ark:/87293/d3mk65b2p"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Citrus Fruits",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Apopka, Orange Co., Florida",
+  "schema:name": "Richfruit",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Orange Co."
+}

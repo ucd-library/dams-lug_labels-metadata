@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:VisualArtwork",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Santa Maria",
+  "schema:State": "California",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1134488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214308"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1212516"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_19_29.tif"
+  },
+  "schema:creator": "Santa Fe Berry Packers",
+  "schema:identifier": [
+    "D-211, Box:19, Folder:29",
+    "ark:/87293/d3542jb83"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Strawberries",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Santa Maria, Santa Barbara Co., California",
+  "schema:name": "Big Red",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Santa Barbara Co."
+}

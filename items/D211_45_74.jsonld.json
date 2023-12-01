@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:VisualArtwork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Maysville",
+  "schema:State": "Kentucky",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/811660"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1211454"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1206484"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_45_74.tif"
+  },
+  "schema:creator": "Delicious Fruits",
+  "schema:identifier": [
+    "D-211, Box:45, Folder:74",
+    "ark:/87293/d3x05xg7j"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Apples",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Maysville, Mason Co., Kentucky",
+  "schema:name": "Delicious Fruits",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Mason Co."
+}

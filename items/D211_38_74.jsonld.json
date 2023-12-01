@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "schema:VisualArtwork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Cambridge",
+  "schema:State": "Massachusetts",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1207987"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205363"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/811838"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214394"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_38_74.tif"
+  },
+  "schema:creator": "Rival Foods Inc.",
+  "schema:identifier": [
+    "ark:/87293/d39c6s42k",
+    "D-211, Box:38, Folder:74"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Apricots",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Cambridge, Middlesex Co., Massachusetts",
+  "schema:name": "Rival",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Middlesex Co."
+}

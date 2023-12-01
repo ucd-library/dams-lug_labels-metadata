@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:VisualArtwork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Portland",
+  "schema:State": "Oregon",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1204325"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/845824"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1134488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1216118"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_41_131.tif"
+  },
+  "schema:creator": "Mason, Ehrman & Co.",
+  "schema:identifier": [
+    "D-211, Box:41, Folder:131",
+    "ark:/87293/d33r0px3s"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Canned Strawberries",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Portland, Multnomah Co., Oregon",
+  "schema:name": "Royal Club",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Multnomah Co."
+}

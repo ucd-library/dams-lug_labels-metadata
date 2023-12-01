@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:VisualArtwork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Patterson",
+  "schema:State": "New Jersey",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/845783"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1045481"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1219776"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_41_72.tif"
+  },
+  "schema:creator": "James Corrado Inc.",
+  "schema:identifier": [
+    "D-211, Box:41, Folder:72",
+    "ark:/87293/d3qv3c699"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Canned Olives",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Patterson, Passaic Co., New Jersey",
+  "schema:name": "Corrado",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Passaic Co."
+}

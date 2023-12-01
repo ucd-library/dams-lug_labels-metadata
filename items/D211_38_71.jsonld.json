@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "schema:VisualArtwork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:City": "Chicago",
+  "schema:State": "Illinois",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1205334"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204048"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/805861"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_38_71.tif"
+  },
+  "schema:creator": "Ricci & Co.",
+  "schema:identifier": [
+    "ark:/87293/d3pn8xj6g",
+    "D-211, Box:38, Folder:71"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
+  },
+  "schema:keywords": "Almonds",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:location": "Chicago, Cook Co., Illinois",
+  "schema:name": "The Nut Wagon",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "https://www.wikidata.org/wiki/Q28575": "Cook Co."
+}

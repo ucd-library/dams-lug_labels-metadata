@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:VisualArtwork",
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": ""
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D211_49_054.tif"
+  },
+  "schema:creator": "Doctolero & Co.  Lamont, Kern Co., California",
+  "schema:identifier": [
+    "ark:/87293/d34t6fc4g",
+    "D-211, Box:49, Folder:54"
+  ],
+  "schema:keywords": "Grapes",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Doctolero & Co",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

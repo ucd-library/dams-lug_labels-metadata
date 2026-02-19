@@ -33,5 +33,6 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Snoboy",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "isPartOf": "info:fedora/collection/ark:/87293/d3k06x747"
 }

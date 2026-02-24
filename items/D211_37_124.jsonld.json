@@ -33,9 +33,6 @@
     "D-211, Box:37, Folder:124",
     "ark:/87293/d3p26q67c"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Grapes",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

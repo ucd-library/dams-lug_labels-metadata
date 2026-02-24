@@ -39,9 +39,6 @@
     "D-211, Box:43, Folder:56",
     "ark:/87293/d34q7qt3g"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Canned Olives",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

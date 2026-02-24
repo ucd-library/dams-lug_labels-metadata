@@ -39,9 +39,6 @@
     "ark:/87293/d39c6s42k",
     "D-211, Box:38, Folder:74"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Apricots",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

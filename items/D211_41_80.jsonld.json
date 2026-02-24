@@ -39,9 +39,6 @@
     "D-211, Box:41, Folder:80",
     "ark:/87293/d3pv6b992"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Canned Mixed Vegetables",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

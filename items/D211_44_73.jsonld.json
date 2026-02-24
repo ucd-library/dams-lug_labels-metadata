@@ -36,9 +36,6 @@
     "ark:/87293/d3445hg4c",
     "D-211, Box:44, Folder:73"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Salmon",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

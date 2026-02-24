@@ -36,9 +36,6 @@
     "D-211, Box:22, Folder:20",
     "ark:/87293/d32b8vf6m"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Lemons",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

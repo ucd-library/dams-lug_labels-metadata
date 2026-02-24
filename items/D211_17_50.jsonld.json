@@ -33,9 +33,6 @@
     "D-211, Box:17, Folder:50",
     "ark:/87293/d3j09w70q"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Grapefruits",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

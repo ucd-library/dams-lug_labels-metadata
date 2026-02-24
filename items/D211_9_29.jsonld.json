@@ -33,9 +33,6 @@
     "ark:/87293/d3kw57m6f",
     "D-211, Box:9, Folder:29"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Unknown",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

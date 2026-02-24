@@ -33,9 +33,6 @@
     "D-211, Box:3, Folder:38",
     "ark:/87293/d3z892h6r"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Pears",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

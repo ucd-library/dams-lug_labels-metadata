@@ -39,9 +39,6 @@
     "D-211, Box:45, Folder:94",
     "ark:/87293/d39z90g2j"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Apple Crescents",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

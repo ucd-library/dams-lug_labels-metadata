@@ -39,9 +39,6 @@
     "ark:/87293/d3gq6r571",
     "D-211, Box:54, Folder:65"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Juice grapes-Raisins pour jus",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

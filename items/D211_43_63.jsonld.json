@@ -27,9 +27,6 @@
     "D-211, Box:43, Folder:63",
     "ark:/87293/d37h1dq7x"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Tomato Paste",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

@@ -36,9 +36,6 @@
     "ark:/87293/d33r0px5r",
     "D-211, Box:46, Folder:84"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Apples",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

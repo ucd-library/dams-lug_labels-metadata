@@ -28,9 +28,6 @@
     "ark:/87293/d3fb4wq13",
     "D-211, Box:41, Folder:82"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Canned Fruit Cocktail",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

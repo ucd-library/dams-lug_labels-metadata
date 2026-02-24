@@ -33,9 +33,6 @@
     "ark:/87293/d3mw28j1q",
     "D-211, Box:43, Folder:29"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Canned Corn",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

@@ -36,9 +36,6 @@
     "D-211, Box:32, Folder:125",
     "ark:/87293/d3kp7tv2c"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Vegetables",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

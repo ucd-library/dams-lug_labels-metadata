@@ -33,9 +33,6 @@
     "D-211, Box:55, Folder:3",
     "ark:/87293/d3fn10w5g"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Muscat Grapes",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

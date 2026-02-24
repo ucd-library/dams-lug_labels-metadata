@@ -39,9 +39,6 @@
     "ark:/87293/d3kh0f262",
     "D-211, Box:26, Folder:11"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Oranges & Lemons",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

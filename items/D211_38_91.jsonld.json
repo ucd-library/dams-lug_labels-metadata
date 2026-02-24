@@ -26,9 +26,6 @@
     "D-211, Box:38, Folder:91",
     "ark:/87293/d37d2qb2n"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Oranges",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

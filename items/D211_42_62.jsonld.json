@@ -39,9 +39,6 @@
     "ark:/87293/d3fq9q84b",
     "D-211, Box:42, Folder:62"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Grapefruit Juice",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

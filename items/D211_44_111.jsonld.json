@@ -36,9 +36,6 @@
     "ark:/87293/d36q1sm3z",
     "D-211, Box:44, Folder:111"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Calamares",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

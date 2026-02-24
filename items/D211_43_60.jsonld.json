@@ -39,9 +39,6 @@
     "D-211, Box:43, Folder:60",
     "ark:/87293/d3mp4vr4k"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Canned Vegetables",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

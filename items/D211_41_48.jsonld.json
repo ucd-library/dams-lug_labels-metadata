@@ -33,9 +33,6 @@
     "D-211, Box:41, Folder:48",
     "ark:/87293/d3tq5rh77"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Coffee",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

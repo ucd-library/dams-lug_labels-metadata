@@ -39,9 +39,6 @@
     "ark:/87293/d3pg1hr8s",
     "D-211, Box:43, Folder:75"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Canned Lima Beans",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

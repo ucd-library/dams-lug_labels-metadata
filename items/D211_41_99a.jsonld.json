@@ -39,9 +39,6 @@
     "D-211, Box:41, Folder:99",
     "ark:/87293/d37p8th25"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Canned Apricots",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

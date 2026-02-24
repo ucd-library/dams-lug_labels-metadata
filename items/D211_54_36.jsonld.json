@@ -36,9 +36,6 @@
     "ark:/87293/d37d2qb53",
     "D-211, Box:54, Folder:36"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Emperor Grapes",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

@@ -28,9 +28,6 @@
     "D-211, Box:38, Folder:129",
     "ark:/87293/d3ft8dn7n"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt429019js/"
-  },
   "schema:keywords": "Cherries",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
